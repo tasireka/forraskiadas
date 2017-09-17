@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "1. házi feladat"
+date:   2017-09-11 14:00:51 +0200
+categories:
+---
+
+Olvasnivalók:
+
+[1. szöveg](http://textologia.iti.mta.hu/alapelvek.pdf)
+
+[2. szöveg](http://textologia.iti.mta.hu/peter_laszlo.pdf)
